@@ -11,6 +11,7 @@ ir-playground
     
 ### Tutorials
 - [(Sponsored) Real-Time Impulse Response Simulation in Software (STM32 DSP) - Phil's Lab #126 - YouTube](https://www.youtube.com/watch?v=xjQBpsu9Tzc)
+- [[#5] IIR Filters - Audio DSP On STM32 with I2S (24 Bit / 96 kHz) - YouTube](https://www.youtube.com/watch?v=lNBrGOk0XzE&pp=ugUEEgJlbg%3D%3D)
 - https://www.st.com/resource/en/application_note/an4841-digital-signal-processing-for-stm32-microcontrollers-using-cmsis-stmicroelectronics.pdf
 - https://www.arterytek.com/download/APNOTE/AN0036_DSP_Instruction_and_Library_on_AT32_ZH_V2.0.1.pdf;jsessionid=cFeMAMN1RDD9NdD7EyjMRhfOwHgH0JtV19FwDlvnU8JyXPHsmO_K!287432582
 - [DSP Instruction and CMSIS-DSP Library Guide for AT32 Cortex-M4F MCUs | by ARTERY Technology | Medium](https://medium.com/@arterychip/dsp-instruction-and-cmsis-dsp-library-guide-for-at32-cortex-m4f-mcus-c75ae14fc962)
