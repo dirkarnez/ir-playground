@@ -9,6 +9,8 @@ ir-playground
   - https://www.zlgmcu.com/data/upload/file/Utilitymcu/HC32F460.pdf
   - https://github.com/SoCXin/HC32F460
   - [jinsc123654/hc32f460_cherryusb_gcc: cherryusb在hc32f460上启动](https://github.com/jinsc123654/hc32f460_cherryusb_gcc)
+  - [记：华大HC32F460系列搭建FreeRTOS记录 » GreenDream](https://www.abcde.engineer/jihuadahc32f460xiliedajianfreertosjilu/)
+  - [国产(华大)单片机 hc32f460入门-CSDN博客](https://blog.csdn.net/u011624093/article/details/119530135)
     
 ### Tutorials
 - [(Sponsored) Real-Time Impulse Response Simulation in Software (STM32 DSP) - Phil's Lab #126 - YouTube](https://www.youtube.com/watch?v=xjQBpsu9Tzc)
